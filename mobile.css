@@ -1,0 +1,33 @@
+@media (max-width: 600px) {
+	.menu_a {
+		display: block;
+	}
+	.company_flex {
+		display: block;
+	}
+	.company_text {
+		width: 100%;
+	}
+	.company_img {
+		width: 100%;
+	}
+	.team_flex {
+		display: block;
+	}
+	.member{
+		width: 90%;
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	.tarifs_flex {
+		display: block;
+	}
+	.tarifs_container {
+		width: 90%;
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	* {
+		box-sizing: border-box;
+	}
+}

@@ -1,0 +1,190 @@
+.menu {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.menu_a {
+	color: black;
+	text-decoration: none;
+	padding: 4%;
+}
+.header {
+	box-sizing: border-box;
+	background: url(polygons.png);
+	text-align: center;
+	padding: 15%;
+	background-repeat: no-repeat;
+	width: 80%;
+	margin: auto;
+}
+h1 {
+	color: white;
+}
+.header_p {
+	color: white;
+}
+.header_button {
+	border-radius: 8px;
+	padding: 2%; 
+	border: none;
+	font-family: Times, Times New Roman, serif;
+	width: 100px;
+}
+.company {
+	margin: auto;
+	width: 80%;
+}
+h2 {
+	text-align: center;
+}
+.company_flex {
+	display: flex;
+	align-items: center;
+}
+.company_text {
+	width: 60%;
+}
+.company_img {
+	width: 40%;
+}
+.slogan {
+	text-align: center;
+}
+.team_flex {
+	display: flex;
+	justify-content: space-around;
+}
+.member {
+	width: 21%;
+	box-shadow: 0 0 10px grey;
+	padding: 1%;
+}
+.member-img {
+	width: 100%;
+}
+.prof {
+	color: grey;
+}
+.member-button {
+	background: rgb(5,91,115);
+	border-radius: 8px;
+	padding: 5%;
+	width: 100%;
+	font-family: Times, Times New Roman, serif;
+	color: white;
+	border: none;
+}
+.tarifs_container {
+	width: 30%;
+	max-width: 300px;
+	min-width: 200px;
+	margin: 1%;
+}
+.tarifs_flex {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.tarifs {
+	background: rgb(98,97,97);
+	padding: 4%;
+	margin-top: 2%;
+}
+body {
+	margin: 0;
+}
+.slogan {
+	color: white;
+}
+.tarif-black {
+	background: black;
+	color: white;
+	margin: 0;
+	padding: 15px;
+}
+.tarif-blue {
+	background: rgb(5,91,115);
+	color: white;
+	margin: 0;
+	padding: 30px;
+}
+.tarif-white {
+	background: white;
+	margin: 0;
+	padding: 10px;
+	border-bottom: silver solid 1px;
+}
+.tarif-grey {
+	background: silver;
+	margin: 0;
+	padding: 10px;
+}
+span {
+	font-weight: bold;
+}
+.day {
+	color: grey;
+	font-weight: normal;
+}
+.tarifs-button {
+	border-radius: 5px;
+	background: black;
+	color: white;
+	padding: 5px;
+}
+.tarifs-button:hover {
+	background: blue;
+	border: 0;
+}
+.slogan2 {
+	color: black;
+	text-align: center;
+}
+.address {
+	background: url(address.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding-left: 30px;
+}
+.tel {
+	background: url(phone.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding-left: 30px;
+}
+.email {
+	background: url(mail.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding-left: 30px;
+}
+form {
+	padding: 5%;
+	background: silver;
+}
+.contacts {
+	margin-top: 0;
+}
+input {
+	width: 100%;
+	margin: 5px;
+	padding: 5px;
+	border: 0;
+}
+.contacts-button {
+	display: block;
+	margin: auto;
+	margin-top: 5px;
+	border-radius: 5px;
+	background: black;
+	color: white;
+	padding: 5px;
+}
+.contacts-button:hover {
+	background: orange;
+	border: 0;
+}
+.footer {
+	background: black;
+	color: white;
+}
